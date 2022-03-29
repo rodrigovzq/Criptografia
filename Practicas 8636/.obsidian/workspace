@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "157d6ef309129a03",
+    "type": "split",
+    "children": [
+      {
+        "id": "70c68af30851e4b3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Clase 1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86204e217bf62b45",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb306c9eb41beefe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "443bf8b3ff27553b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "898af9cb9aa64641",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "acbf236fd2aecc71",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bea60f9d000e2df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e1a87cafde2178e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clase 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9ee607daf29c7b1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "70c68af30851e4b3",
+  "lastOpenFiles": [
+    "Clase 1.md"
+  ]
+}
